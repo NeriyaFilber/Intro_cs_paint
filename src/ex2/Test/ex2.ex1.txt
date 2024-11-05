@@ -1,0 +1,6 @@
+GUIShape,0,true,1,Circle_2D,0.0,0.0, 5.0
+GUIShape,16776960,true,2,Circle_2D,6.0,8.0, 3.4
+GUIShape,0,false,3,Segment_2D,2.0,8.0,5.0,7.0
+GUIShape,65535,true,4,Triangle_2D,2.0,8.0,5.0,7.0,2.0,4.0
+GUIShape,16711935,true,5,Rect_2D,3.0,4.0,3.0,8.0,6.0,8.0,6.0,4.0
+GUIShape,65280,true,6,Polygon_2D,3.0,4.0,6.0,8.0,2.0,8.0,5.0,7.0,2.0,4.0
